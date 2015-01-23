@@ -1,0 +1,22 @@
+<div class="item post clearfix">
+  <div class="inner">
+    <div class="title">
+      <h3>{{title}}</h3>
+    </div>
+    <div class="date">
+      <div class="shadow-cover"></div>{{display_date}}
+    </div>
+    <div class="body">
+      {{#if photo_url}}
+        <img class="img-responsive" src="{{photo_url}}" alt="">
+        {{#if caption}}
+          <div class="caption">{{{caption}}}</div>
+        {{/if}}
+        <hr />
+      {{/if}}
+      {{#if body}}
+        <div class="text">{{body}}</div>
+      {{/if}}
+    </div>
+  </div>
+</div>

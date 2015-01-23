@@ -1,0 +1,11 @@
+# Created by https://www.gitignore.io
+
+### grunt ###
+# Grunt usually preprocesses files such as coffeescript, compass... inside the .tmp directory
+.tmp/
+
+# Grunt modules
+node_modules
+
+### Bower ###
+bower_components

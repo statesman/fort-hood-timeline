@@ -1,0 +1,35 @@
+// Bring in vanilla Bootstrap ...
+@import 'custom-bootstrap/bootstrap.less';
+// ... and then decorate it with Statesman styles
+@import 'custom-bootstrap/variables.less';
+
+@import "../../bower_components/font-awesome/less/font-awesome";
+
+@import "type";
+@import "utils";
+
+@import 'leaflet';
+@import "map-slides";
+
+ul.social {
+  padding-right: @grid-gutter-width - 8px;
+  > li > a {
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 16px;
+    .fa-facebook-square {
+      color: #3b5998;
+    }
+    .fa-twitter {
+      color: #55acee;
+    }
+    .fa-google-plus {
+      color: #dd4b39;
+    }
+  }
+}
+
+.navbar {
+  border-color: #ddd;
+  .box-shadow(0 0 13px rgba(0,0,0,0.1));
+}

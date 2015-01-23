@@ -1,0 +1,28 @@
+/*
+ * Year markers
+ */
+.timeline-items .group-marker {
+  position: absolute;
+  width: 100%;
+
+  .marker {
+    display: block;
+    margin: 20px auto 12px;
+    width: 80px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 26px;
+    background-color: @brand-primary;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+
+    z-index: 50;
+  }
+
+  &:first-child .marker {
+    margin-top: 0;
+  }
+}

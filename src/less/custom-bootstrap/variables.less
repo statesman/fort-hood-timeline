@@ -1,0 +1,37 @@
+/* Override Bootstrap variables here */
+
+@brand-primary: #395271;
+@body-bg: #f7f7f7;
+
+/* Type overrides */
+@font-family-serif: "Lusitana", serif;
+@font-family-serif-2: "Merriweather", serif;
+@font-family-sans-serif: "Merriweather Sans", sans-serif;
+@font-family-base: @font-family-serif-2;
+@headings-font-family: @font-family-serif;
+@headings-font-weight: 700;
+@font-size-h1: 45px;
+@font-size-h2: 19px;
+@font-size-h3: 25px;
+@line-height-base: 1.7;
+
+
+/* Navbar */
+@navbar-default-bg: white;
+@navbar-margin-bottom: 0;
+@navbar-border-radius: 0;
+
+//## Define the maximum width of `.container` for different screen sizes.
+
+@timeline-width: 600px + @grid-gutter-width;
+
+@container-tablet: @timeline-width;
+@container-sm: @container-tablet;
+@container-desktop: @timeline-width;
+@container-md: @container-desktop;
+@container-large-desktop: @timeline-width;
+@container-lg: @container-large-desktop;
+
+.container {
+  width: @timeline-width;
+}
