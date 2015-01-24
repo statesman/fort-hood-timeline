@@ -298,7 +298,7 @@ L.marker([31.137031, -97.786527]).actions.addRemove(S.map)
 
 An Army report released Friday revealed new details about the April 2014 shooting at Fort Hood in which Spc. Ivan López killed three fellow soldiers and wounded 16 others before killing himself.
 
-Our timeline draws from the report, which presents the most comprehensive timeline to date of the day's events.
+Our timeline draws from [the report](http://projects.statesman.com/documents/?doc=1508205-report-of-investigation), which presents the most comprehensive timeline to date of the day's events.
 
 **Use the arrows below to navigate.**
 
@@ -309,9 +309,9 @@ Our timeline draws from the report, which presents the most comprehensive timeli
 L.marker([31.136306, -97.786589]).actions.addRemove(S.map)
 ```
 
-López arrives at Building 39001 to discuss a time-off request. According to the report, he "verbally attacked" someone then left the building.
+On April 2, 2014, López arrives at Building 39001 to discuss a time-off request. According to the report, he "verbally attacked" someone then left the building.
 
-About 4:15 p.m., after making a few phone calls and sending a text message, López begins shooting, woudning four in an office before shooting several rounds through the door of a conference room, fatally wounding Sgt. First Class Danny Ferguson. After firing eleven rounds, he gets in his car and drives west.
+About 4:15 p.m., after making a few phone calls and sending a text message, López begins shooting, wounding four in an office before shooting several rounds through the door of a conference room, fatally wounding Sgt. First Class Danny Ferguson. After firing eleven rounds, he gets in his car and drives west.
 
 #Roadside shooting
 ```
