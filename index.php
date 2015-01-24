@@ -329,9 +329,9 @@ While driving away from Building 39001, López stops to shoot at someone standin
 L.marker([31.137735, -97.791962]).actions.addRemove(S.map)
 ```
 
-López parks outside the a motor pool and enters Building 40027. He heads straight to an office where he shoots once, missing his intended target and grazing someone else's head.
+López parks outside a motor pool and enters Building 40027. He heads straight to an office where he shoots once, missing his intended target and grazing someone else's head.
 
-He fires several more rounds inside the office and in an attached bay, killing Sgt. Timothy Owens and wounding three others. He tries to shoot another person while exiting, but his gun misifires. He fired a total of nine rounds before getting back in his car.
+He fires several more rounds inside the office and in an attached bay, killing Sgt. Timothy Owens and wounding three others. He tries to shoot another person while exiting, but his gun misfires. He fires a total of nine rounds before getting back in his car.
 
 #Jeep shooting
 ```
@@ -340,7 +340,7 @@ He fires several more rounds inside the office and in an attached bay, killing S
 L.marker([31.137679, -97.790191]).actions.addRemove(S.map)
 ```
 
-While driving away from the motor pool, López stops alongside a stopped vehicle and shoots a single round through the Jeep's window. The glass from the shot wounded the soldier inside.
+While driving away from the motor pool, López stops alongside a stopped vehicle and shoots a single round through the Jeep's window. The glass from the shot wounds the soldier inside.
 
 #Drive-by shootings
 ```
@@ -349,7 +349,7 @@ While driving away from the motor pool, López stops alongside a stopped vehicle
 L.marker([31.137841, -97.788773]).actions.addRemove(S.map)
 L.marker([31.138215, -97.788415]).actions.addRemove(S.map)
 ```
-López shoots three times through the passensger-side window of his truck, then turns into the parking lot of the medical brigade and shoots once out the driver-side window, wounding a soldier in the neck.
+López shoots three times through the passenger-side window of his truck, then turns into the parking lot of the medical brigade and shoots once out the driver-side window, wounding a soldier in the neck.
 
 #Medical brigade shootings
 ```
@@ -357,7 +357,7 @@ López shoots three times through the passensger-side window of his truck, then 
 - zoom: 17
 L.marker([31.138401, -97.787754]).actions.addRemove(S.map)
 ```
-López parks in front of the medical brigade building and walks in the front doors. He shoots at three soldiers in the office next to the doors, killing one and wounding two. He walks down the buidling's main hallway, shooting one more person as he leaves.
+López parks in front of the medical brigade building and walks in the front doors. He shoots at three soldiers in the office next to the doors, killing one and wounding two. He walks down the building's main hallway, shooting one more person as he leaves.
 
 He gets back in his car and drives out of the parking lot.
 
