@@ -40,6 +40,10 @@
   <link href='http://fonts.googleapis.com/css?family=Lusitana:400,700' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:400,300,300italic,400italic,700italic,700,800,800italic' rel='stylesheet' type='text/css'>
+
+  <?php /* CMG advertising and analytics */ ?>
+  <?php include "includes/advertising.inc";?>
+  <?php include "includes/metrics-head.inc";?>
 </head>
 <body>
   <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -372,5 +376,10 @@ López gets out of his car and begins to walk back toward Building 39001, where 
 “You better kill me now … I was the shooter … kill me,” he told military officers, according to the report.
 
 Moments later, López removes his pistol from his waistband and fatally shoots himself.</script>
+
+<?php /* CMG advertising and analytics */ ?>
+<?php include "includes/project-metrics.inc"; ?>
+<?php include "includes/metrics.inc"; ?>
+
 </body>
 </html>
